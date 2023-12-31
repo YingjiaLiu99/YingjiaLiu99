@@ -7,15 +7,15 @@
 
 <h3 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20">, I am Yingjia Liu</h3>
 
+<h4 align="center">🎯 I’m actively looking for a software engineer and related job/intern </h4>
+
 <h4 align="left">About me:</h4>
 
-- 🎓  I graduate (class of 2022) from University of California, San Diego, and currently studying Computer Science as a graduate student at Brown University (class of 2024)
+- 🎓  I graduated (class of 2022) from the University of California, San Diego, and I am currently studying Computer Science as a master's student at Brown University (class of 2024)
 
-- 🔭 I’m currently working on a startup project:&nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> <img src="https://github.com/YingjiaLiu99/YingjiaLiu99/assets/113162439/5e90751b-48b3-44c1-895c-86be4afaa840" alt="Alt text for your image" width="150" height="auto"/></a> &nbsp;[[Frontend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
+- 🔭 I am currently working on a startup project:&nbsp; <a href="https://healinpocketusa.wixsite.com/heal-in-pocket"> <img src="https://github.com/YingjiaLiu99/YingjiaLiu99/assets/113162439/5e90751b-48b3-44c1-895c-86be4afaa840" alt="Alt text for your image" width="150" height="auto"/></a> &nbsp;[[Frontend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket.git)&nbsp;&nbsp;[[Backend repo]](https://github.com/YingjiaLiu99/Heal-in-Pocket_backend.git)
 
-- 🎯 I’m actively looking for software engineer and related jobs/interns
-
-- 📫 How to reach me **yingjia_liu@brown.edu**
+- 📫 Please reach me at **yingjia_liu@brown.edu**
 
 - 🔗 Connect me on LinkedIn:&nbsp;&nbsp;<a href="https://linkedin.com/in/yingjia-liu-1767951ba" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yingjia liu" height="17" width="17" style="margin-top:-5px;"/></a>
 
