@@ -11,7 +11,7 @@
 
 <h4 align="left">About me:</h4>
 
-- 🎓  I graduated (class of 2022) from the University of California, San Diego, and I am currently studying Computer Science as a master's student at Brown University (class of 2024)
+- 🎓  Graduated from the University of California, San Diego(class of 2022) and Brown University (class of 2024)
 
 - 📫 Please reach me at **yingjia_liu@brown.edu**
 
