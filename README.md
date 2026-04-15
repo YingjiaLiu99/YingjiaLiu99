@@ -15,4 +15,9 @@
 
 - 📫 Please reach me at **davidlyjwork@gmail.com**
 
-- 🔗 Connect me on LinkedIn:&nbsp;&nbsp;<a href="https://linkedin.com/in/yingjia-liu-1767951ba" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yingjia liu" height="17" width="17"/></a>
+- 🔗 Connect me on LinkedIn:&nbsp;&nbsp;<a href="https://linkedin.com/in/yingjia-liu-1767951ba" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+       alt="yingjia liu"
+       height="17" width="17"
+       style="vertical-align: middle;"/>
+</a>
